@@ -6,7 +6,7 @@ Users can add, view, update, and delete expense entries, and view a spending sum
 
 The purpose of writing this software was to gain hands-on experience with building and managing a relational database through code rather than manual SQL tools. This project helped solidify concepts of data persistence, CRUD operations, and query aggregation.
 
-[Software Demo Video](https://youtube.com/placeholder-link)
+[Software Demo Video](https://youtu.be/Os9SgJy4nCw)
 
 # Relational Database
 
